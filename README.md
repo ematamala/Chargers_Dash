@@ -5,15 +5,25 @@ This Dashboard allows explore the start time of chargers for one contract.
 ## Requirments
 Python 3
 
+## Two Versions
+
+1. with the hour of start of the charge. (app_chargers.py)
+
+2. with the ocupation of the cahrger. (app_chargers_use.py)
+
 ## How to run this app
 
-clone this repository.
+1. clone this repository.
 
-create and activate a virtual enviroment
+2. create and activate a virtual enviroment
 
-install required packages
+3. install required packages
 
-run the app app_chargers.py
+4. run the app app_chargers.py or app_chargers_use.py
+   
+5.  open http://127.0.0.1:8050/ in a browser
+
+
 
 ## Screenshot
 
