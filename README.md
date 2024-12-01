@@ -1,6 +1,6 @@
 # Dash Use of Chargers
 
-This Dashboard allows explore the start time of chargers for one contract.
+This Dashboard allows explore the start time of Electric Chargers for one contract.
 
 ## Requirments
 Python 3
