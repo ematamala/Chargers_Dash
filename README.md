@@ -2,6 +2,9 @@
 
 This Dashboard allows explore the start time of Electric Chargers for one contract.
 
+You can choose which contract data you want to view and select between which dates to perform the analysis.
+The numbers on the graph indicate at what time the vehicle charges started on the selected contract and date.
+ 
 ## Requirments
 Python 3
 
